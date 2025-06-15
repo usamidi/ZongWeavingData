@@ -11,6 +11,9 @@
       "name": "曲目1",
       "originalSong": "原曲1",
       "composer": "作曲1",
+      "albumId": "RDWL-0043",
+      "albumName": "缘",
+      "albumCoverUrl": "/assets/images/albums/RDWL-0043.jpg",
       "coverUrl": "/assets/images/tracks/RDWL-0043-01.jpg"
     }
   ]
