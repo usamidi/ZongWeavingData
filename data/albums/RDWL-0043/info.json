@@ -25,8 +25,28 @@
             "albumId": "RDWL-0043",
             "albumName": "縁",
             "albumCoverUrl": "/assets/images/albums/RDWL-0043.jpg",
-            "coverUrl": "/assets/images/tracks/RDWL-0043/2.jpg"
-          },
+            "coverUrl": "/assets/images/tracks/RDWL-0043/2.jpg",
+            "lyrics": [
+              {
+                "original": "であい　ふれる",
+                "translation": "翻译1"
+              },
+              {
+                "original": "いかなるめぐりにも",
+                "translation": "翻译2"
+              },
+              {
+                "original": "おもい　きざす",
+                "translation": "翻译1"
+              },
+              {
+                "original": "かすかなる幻想",
+                "translation": "翻译2"
+              }
+            ],
+            "vocalist": "めらみぽっぷ",
+            "lyricist": "RD-Sounds"
+          } ,
 
           {
             "id": "RDWL-0043-03",
@@ -36,7 +56,27 @@
             "albumId": "RDWL-0043",
             "albumName": "縁",
             "albumCoverUrl": "/assets/images/albums/RDWL-0043.jpg",
-            "coverUrl": "/assets/images/tracks/RDWL-0043/3.jpg"
-          }
+            "coverUrl": "/assets/images/tracks/RDWL-0043/3.jpg",
+            "lyrics": [
+              {
+                "original": "その行方を知らずとも、ただ、好きなように流れればいいと。",
+                "translation": "就算不知去向何处，但只要能随心所欲地浪迹天涯，有此足矣"
+              },
+              {
+                "original": "その、自由な在り方に、わたしは憧れたのだろう。",
+                "translation": "我也会憧憬如此自由的生活方式的吧"
+              },
+              {
+                "original": "「ねぇ、鏡を見てみたら、どんな顔が写っているか。最後に確かめたのはいつなの？」",
+                "translation": "「喂，你在镜子里看到了什么样的脸？最后一次照镜子又是何时呢？」"
+              },
+              {
+                "original": "「ねぇ、いつもそんな馬鹿丁寧な喋り方をしていてさー、疲れちゃったりとかしたりしないの？」",
+                "translation": "「喂，你一直说话都那么彬彬有礼，这样你不觉得累吗？」"
+              }
+            ],
+            "vocalist": "いお",
+            "lyricist": "RD-Sounds"
+          } 
       ]
 } 
