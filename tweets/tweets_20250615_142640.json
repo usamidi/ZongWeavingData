@@ -1,0 +1,2220 @@
+{
+  "version": "1.0",
+  "last_updated": "20250615_142640",
+  "tweets": [
+    {
+      "id": 1933905863674331392,
+      "text": "秘封って何？",
+      "created_at": "2025-06-14T15:14:22+00:00",
+      "metrics": {
+        "retweet_count": 15,
+        "reply_count": 0,
+        "like_count": 70,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3454
+      },
+      "entities": null
+    },
+    {
+      "id": 1933808188471886237,
+      "text": "陰のオーラ溜めていく 呪う",
+      "created_at": "2025-06-14T08:46:15+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1961
+      },
+      "entities": null
+    },
+    {
+      "id": 1933796001367957554,
+      "text": "自分で言うのもなんだがサビが良すぎる　ここにすべてを持っていきたい",
+      "created_at": "2025-06-14T07:57:49+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 30,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2251
+      },
+      "entities": null
+    },
+    {
+      "id": 1933791240690319558,
+      "text": "しかしなんというかよくばりセットみたいな曲になりそう",
+      "created_at": "2025-06-14T07:38:54+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2153
+      },
+      "entities": null
+    },
+    {
+      "id": 1933790780889698511,
+      "text": "メッセージ性から逆算するのよくない",
+      "created_at": "2025-06-14T07:37:04+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 10,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1954
+      },
+      "entities": null
+    },
+    {
+      "id": 1933788444435886322,
+      "text": "出来ないことだらけだ もっと上手くなりたい！！！",
+      "created_at": "2025-06-14T07:27:47+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2098
+      },
+      "entities": null
+    },
+    {
+      "id": 1933784603472638324,
+      "text": "アリス",
+      "created_at": "2025-06-14T07:12:32+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 19,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1892
+      },
+      "entities": null
+    },
+    {
+      "id": 1933590364340039949,
+      "text": "怒りと疑心が足りない",
+      "created_at": "2025-06-13T18:20:41+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2252
+      },
+      "entities": null
+    },
+    {
+      "id": 1933589642881941963,
+      "text": "Bメロ駄目すぎる お前はいつもそうだ",
+      "created_at": "2025-06-13T18:17:49+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2278
+      },
+      "entities": null
+    },
+    {
+      "id": 1933548273740214664,
+      "text": "ここ最近でわかったのはゲームを作るというのは思っていたよりもずっと大変だということです",
+      "created_at": "2025-06-13T15:33:26+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2737
+      },
+      "entities": null
+    },
+    {
+      "id": 1933540169636065673,
+      "text": "夏コミ突破してみせます　たぶんかなり危険な一枚になると思います（？？？）",
+      "created_at": "2025-06-13T15:01:14+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 67,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3152
+      },
+      "entities": null
+    },
+    {
+      "id": 1933461459956347380,
+      "text": "我が家に届いていないからスイッチ2の出荷台数はデマ たぶん100台くらいしか生産されてないと思う",
+      "created_at": "2025-06-13T09:48:28+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 41,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2894
+      },
+      "entities": null
+    },
+    {
+      "id": 1933398664153833681,
+      "text": "アリス",
+      "created_at": "2025-06-13T05:38:57+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 33,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2330
+      },
+      "entities": null
+    },
+    {
+      "id": 1933266793898127643,
+      "text": "騙されてないか？",
+      "created_at": "2025-06-12T20:54:56+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2759
+      },
+      "entities": null
+    },
+    {
+      "id": 1933076023886934334,
+      "text": "でも夏コミやりたいことあるから頑張りたい……",
+      "created_at": "2025-06-12T08:16:53+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 28,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2620
+      },
+      "entities": null
+    },
+    {
+      "id": 1933075984049402133,
+      "text": "いろんなことが積み重なり過ぎてて厳しい！！！！！旅に出たい！！！！！！！！",
+      "created_at": "2025-06-12T08:16:44+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 30,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2532
+      },
+      "entities": null
+    },
+    {
+      "id": 1933068462114680893,
+      "text": "完成されている曲は完成されている",
+      "created_at": "2025-06-12T07:46:50+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2459
+      },
+      "entities": null
+    },
+    {
+      "id": 1933039626887049638,
+      "text": "ｳｵｵｵｵｵｵ",
+      "created_at": "2025-06-12T05:52:15+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2516
+      },
+      "entities": null
+    },
+    {
+      "id": 1932924296302899406,
+      "text": "むしろどうして目的の為に何をしてもいいと思わないのか？",
+      "created_at": "2025-06-11T22:13:58+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 34,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3560
+      },
+      "entities": null
+    },
+    {
+      "id": 1932802784765821315,
+      "text": "霧雨魔理沙に魂を囚われている人、霧雨魔理沙のこと好きですかって聞くとキマった目で「いや霧雨魔理沙嫌いですね許せないですよほんと私霧雨魔理沙に呪われてるんですよなんなんでしょうあいつほんと許せないんですよ」みたいなことを言い出すので怖い",
+      "created_at": "2025-06-11T14:11:08+00:00",
+      "metrics": {
+        "retweet_count": 68,
+        "reply_count": 0,
+        "like_count": 347,
+        "quote_count": 3,
+        "bookmark_count": 15,
+        "impression_count": 13071
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.237,
+            "type": "Other",
+            "normalized_text": "霧雨魔理沙"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.2769,
+            "type": "Person",
+            "normalized_text": "霧雨魔理沙"
+          },
+          {
+            "start": 64,
+            "end": 68,
+            "probability": 0.2495,
+            "type": "Person",
+            "normalized_text": "霧雨魔理沙"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1932785179770401210,
+      "text": "こうなったら「世界の終わりの最後の殺人」も行くしかないなって思ってます　近々……",
+      "created_at": "2025-06-11T13:01:10+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 28,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2525
+      },
+      "entities": null
+    },
+    {
+      "id": 1932783308590706905,
+      "text": "「名探偵と海の悪魔」は想像していたよりもミステリではなく海洋冒険小説の趣が強い感じでしたがそのようなものだと割り切って読むと重々しい世界観にどっぷり浸れてとてもいいです　これは言ってはらないことかもしれませんがオブラ・ディンが小説化されたからこうだろうなと思って読むとアツいです",
+      "created_at": "2025-06-11T12:53:44+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 19,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2767
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 1,
+            "end": 8,
+            "probability": 0.7557,
+            "type": "Other",
+            "normalized_text": "名探偵と海の悪魔"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1932782274829037767,
+      "text": "@itomakimaki0327 ポーなかなか面白いですね！",
+      "created_at": "2025-06-11T12:49:38+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 119
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 16,
+            "username": "itomakimaki0327",
+            "id": "1646847260314185728"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1932782189709865144,
+      "text": "M.W.クレイヴンの大ファンの人みたいになってますが確かに面白いです　ミステリとはいってもキャラの主観、条件の後出しが結構多いので推理するよりも話のドラマティックな帰結を追って読んでおり、逆転裁判みたいな趣があって良いです　料理や情景、厳しい自然の描写が豊かなのも良い……",
+      "created_at": "2025-06-11T12:49:18+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2499
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 8,
+            "probability": 0.2925,
+            "type": "Person",
+            "normalized_text": "M.W.クレイヴン"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1932780441519751511,
+      "text": "ここ最近読んだのは「名探偵と海の悪魔」「ダークゾーン」「ストーンサークルの殺人」「ブラックサマーの殺人」「キュレーターの殺人」「グレイラットの殺人」「ボタニストの殺人」「クリムゾンの迷宮」「恐怖を失った男」「回樹」「楽園とは探偵の不在なり」\nあたり。随分ミステリに寄っているな……",
+      "created_at": "2025-06-11T12:42:21+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 41,
+        "quote_count": 0,
+        "bookmark_count": 5,
+        "impression_count": 3190
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 10,
+            "end": 17,
+            "probability": 0.5822,
+            "type": "Other",
+            "normalized_text": "名探偵と海の悪魔"
+          },
+          {
+            "start": 20,
+            "end": 25,
+            "probability": 0.453,
+            "type": "Other",
+            "normalized_text": "ダークゾーン"
+          },
+          {
+            "start": 28,
+            "end": 38,
+            "probability": 0.5878,
+            "type": "Other",
+            "normalized_text": "ストーンサークルの殺人"
+          },
+          {
+            "start": 41,
+            "end": 50,
+            "probability": 0.6163,
+            "type": "Other",
+            "normalized_text": "ブラックサマーの殺人"
+          },
+          {
+            "start": 53,
+            "end": 61,
+            "probability": 0.4106,
+            "type": "Other",
+            "normalized_text": "キュレーターの殺人"
+          },
+          {
+            "start": 85,
+            "end": 92,
+            "probability": 0.5786,
+            "type": "Other",
+            "normalized_text": "クリムゾンの迷宮"
+          },
+          {
+            "start": 108,
+            "end": 113,
+            "probability": 0.556,
+            "type": "Other",
+            "normalized_text": "楽園とは探偵"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1932777517569749369,
+      "text": "オタクは魂を強く引かれれば引かれるほど「〇〇って何なんでしょうね」と言い始める",
+      "created_at": "2025-06-11T12:30:44+00:00",
+      "metrics": {
+        "retweet_count": 16,
+        "reply_count": 1,
+        "like_count": 111,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 5741
+      },
+      "entities": null
+    },
+    {
+      "id": 1932712441663926515,
+      "text": "今夜は一コーラス データ出し 譜面 気合！！！！",
+      "created_at": "2025-06-11T08:12:08+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 29,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2620
+      },
+      "entities": null
+    },
+    {
+      "id": 1932429143876190388,
+      "text": "それは愚かと言えば愚かだけどもとより人は愚かだから",
+      "created_at": "2025-06-10T13:26:25+00:00",
+      "metrics": {
+        "retweet_count": 6,
+        "reply_count": 0,
+        "like_count": 55,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3834
+      },
+      "entities": null
+    },
+    {
+      "id": 1932427971127804366,
+      "text": "私はきっと、人が強固な思い込みにのめり込んでいって破滅していく様が好きなのだと思う……",
+      "created_at": "2025-06-10T13:21:45+00:00",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 66,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3805
+      },
+      "entities": null
+    },
+    {
+      "id": 1932338611674136585,
+      "text": "ここ最近の睡眠不足感解消のためにヤクルト1000を試しに使ってみたんだけど結構いいかも……",
+      "created_at": "2025-06-10T07:26:40+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 27,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3017
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 16,
+            "end": 19,
+            "probability": 0.702,
+            "type": "Organization",
+            "normalized_text": "ヤクルト"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1932338464152043554,
+      "text": "やることが増えてきたぞ　殺る気が出てきた",
+      "created_at": "2025-06-10T07:26:05+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2345
+      },
+      "entities": null
+    },
+    {
+      "id": 1931996010651521106,
+      "text": "昨晩は寝落ちしてしまいやるはずのことがすべてが台無しになってしまったので今晩は頑張ります",
+      "created_at": "2025-06-09T08:45:18+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2842
+      },
+      "entities": null
+    },
+    {
+      "id": 1931995933216231932,
+      "text": "アリス",
+      "created_at": "2025-06-09T08:44:59+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 26,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2509
+      },
+      "entities": null
+    },
+    {
+      "id": 1931687410863403410,
+      "text": "あるでちゃんは大阪を拠点に世界を滅ぼしていくらしい(？)",
+      "created_at": "2025-06-08T12:19:02+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 50,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3658
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.7,
+            "type": "Person",
+            "normalized_text": "あるでちゃん"
+          },
+          {
+            "start": 7,
+            "end": 8,
+            "probability": 0.9741,
+            "type": "Place",
+            "normalized_text": "大阪"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931686972348932539,
+      "text": "RT @arude_chan: ふふふ…… https://t.co/YRwYj5dlfY",
+      "created_at": "2025-06-08T12:17:17+00:00",
+      "metrics": {
+        "retweet_count": 18,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "arude_chan",
+            "id": "1165648820241235973"
+          }
+        ],
+        "urls": [
+          {
+            "start": 22,
+            "end": 45,
+            "url": "https://t.co/YRwYj5dlfY",
+            "expanded_url": "https://x.com/arude_chan/status/1931647834727875043/photo/1",
+            "display_url": "pic.x.com/YRwYj5dlfY",
+            "media_key": "3_1931647828289617920"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931668381855547875,
+      "text": "あとパビリオン全く関係ないんですが会場内に\"霧\"が発生する場所があって視界を閉ざされる体験がお手軽に出来て面白いのでオススメです マジで何も見えなくなるので事故らないように気をつけて歩きましょう！ https://t.co/i0pz9Lbv76",
+      "created_at": "2025-06-08T11:03:25+00:00",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 62,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3145
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 99,
+            "end": 122,
+            "url": "https://t.co/i0pz9Lbv76",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931668381855547875/video/1",
+            "display_url": "pic.x.com/i0pz9Lbv76",
+            "media_key": "7_1931668367561326592"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931666452668620903,
+      "text": "個人的な癖なのですが私は\"言葉\"が好きなのでいろんな国の言葉が聞こえてくるのがとても良かったです \n基本的には各国とも万博公用語に日本語か英語を選択するようですけどパビリオン内で漏れ聞こえる現地の言葉はアツい……あとサウジの解説の人はなんと関西弁喋ってました(この付近で聞けます) https://t.co/MaPGZKK32I",
+      "created_at": "2025-06-08T10:55:45+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 36,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2569
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 141,
+            "end": 164,
+            "url": "https://t.co/MaPGZKK32I",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931666452668620903/photo/1",
+            "display_url": "pic.x.com/MaPGZKK32I",
+            "media_key": "3_1931666445362188288"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 108,
+            "end": 110,
+            "probability": 0.5278,
+            "type": "Organization",
+            "normalized_text": "サウジ"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931665077884637316,
+      "text": "万博どうかなーと思ってたんですが思いの外……というよりかなり楽しめて良かったです 中国とかアイルランドとかも行きたかったんですがタイミングが合わず……会期中にまたいけたら良いな……！",
+      "created_at": "2025-06-08T10:50:17+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 40,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3126
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 41,
+            "end": 42,
+            "probability": 0.9201,
+            "type": "Place",
+            "normalized_text": "中国"
+          },
+          {
+            "start": 45,
+            "end": 50,
+            "probability": 0.9633,
+            "type": "Place",
+            "normalized_text": "アイルランド"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931664391633867060,
+      "text": "万博色んな国のコーヒーあるに違いない！と探し、あるにはあったんですがどこも値段かなりとんでもなく、たとえばこいつは100g3000円です\n \n買います！値段いくら？って聞いて上記の価格言われて？？？？ってなったんですが陰キャなのでやっぱ辞めますって言えませんでした 美味しかったです…… https://t.co/9a2bIdywzQ",
+      "created_at": "2025-06-08T10:47:34+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 30,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2304
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 144,
+            "end": 167,
+            "url": "https://t.co/9a2bIdywzQ",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931664391633867060/photo/1",
+            "display_url": "pic.x.com/9a2bIdywzQ",
+            "media_key": "3_1931664386109919232"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931662040764150155,
+      "text": "スペインはポストカードを大量に展示して｢これ全部うちの国なんですけどね｣と風光明媚をドヤってくるのがシンプルに強くて良かったです あと日本との意外なつながりを教えてくれたりと学びもあってかなり万博の何たるかをわかっている感じがあり好印象でした おすすめ！ https://t.co/29LCx5w1j2",
+      "created_at": "2025-06-08T10:38:13+00:00",
+      "metrics": {
+        "retweet_count": 5,
+        "reply_count": 0,
+        "like_count": 36,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3503
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 128,
+            "end": 151,
+            "url": "https://t.co/29LCx5w1j2",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931662040764150155/photo/1",
+            "display_url": "pic.x.com/29LCx5w1j2",
+            "media_key": "3_1931662029078810624"
+          },
+          {
+            "start": 128,
+            "end": 151,
+            "url": "https://t.co/29LCx5w1j2",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931662040764150155/photo/1",
+            "display_url": "pic.x.com/29LCx5w1j2",
+            "media_key": "3_1931662034686582784"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 3,
+            "probability": 0.9307,
+            "type": "Place",
+            "normalized_text": "スペイン"
+          },
+          {
+            "start": 67,
+            "end": 68,
+            "probability": 0.5782,
+            "type": "Place",
+            "normalized_text": "日本"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931660633369665619,
+      "text": "文化という意味ではフランスは流石自国の強みをわかっているというか、自国ブランドを紹介するだけで美術館が出来上がってしまうのが凄いな……という感じでした ビジュアル激強なので一見の価値があります https://t.co/q5bh9oBfwX",
+      "created_at": "2025-06-08T10:32:38+00:00",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 30,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2375
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 97,
+            "end": 120,
+            "url": "https://t.co/q5bh9oBfwX",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931660633369665619/photo/1",
+            "display_url": "pic.x.com/q5bh9oBfwX",
+            "media_key": "3_1931660609680211968"
+          },
+          {
+            "start": 97,
+            "end": 120,
+            "url": "https://t.co/q5bh9oBfwX",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931660633369665619/photo/1",
+            "display_url": "pic.x.com/q5bh9oBfwX",
+            "media_key": "3_1931660614348488704"
+          },
+          {
+            "start": 97,
+            "end": 120,
+            "url": "https://t.co/q5bh9oBfwX",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931660633369665619/photo/1",
+            "display_url": "pic.x.com/q5bh9oBfwX",
+            "media_key": "3_1931660621227130880"
+          },
+          {
+            "start": 97,
+            "end": 120,
+            "url": "https://t.co/q5bh9oBfwX",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931660633369665619/photo/1",
+            "display_url": "pic.x.com/q5bh9oBfwX",
+            "media_key": "3_1931660627686359040"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 9,
+            "end": 12,
+            "probability": 0.9596,
+            "type": "Place",
+            "normalized_text": "フランス"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931659087001128993,
+      "text": "あとアメリカパビリオンはテーマ曲があるんですがそれが凄くいいのでぜひ聞いて欲しいなと思います ずっとtogether〜って歌ってるんですがやたらエモくキャッチーでいい……\n\nあとでスタッフの人にこの曲配信とかされないんですか〜と聞いてみたらNot",
+      "created_at": "2025-06-08T10:26:29+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 21,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2761
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 2,
+            "end": 10,
+            "probability": 0.5076,
+            "type": "Place",
+            "normalized_text": "アメリカパビリオン"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931657426237063257,
+      "text": "アメリカパビリオンは英語のツアーの方で参加しましたが全体的にかなりエモよりの構造で日本と友達だよ〜感をバリバリ出してきていて少々気恥ずかしい感もありつつも雰囲気かなり良かったです 月の石は……石でした……",
+      "created_at": "2025-06-08T10:19:53+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 24,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2543
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 8,
+            "probability": 0.4752,
+            "type": "Place",
+            "normalized_text": "アメリカパビリオン"
+          },
+          {
+            "start": 41,
+            "end": 42,
+            "probability": 0.5716,
+            "type": "Place",
+            "normalized_text": "日本"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931655217466265868,
+      "text": "個人的に思い入れがあるというのを差し引いてもマレーシアパビリオンは本当に良かったです 文化の紹介と技術アピとのバランスがよく、エモく、フードコートも美味しい……と外れない感がとてもいいです さんざん言われてると思いますがロティチャナイおすすめ 値段は現地価格の10倍以上しますが…… https://t.co/pR3CQDebWd",
+      "created_at": "2025-06-08T10:11:06+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 41,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 3557
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 142,
+            "end": 165,
+            "url": "https://t.co/pR3CQDebWd",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931655217466265868/photo/1",
+            "display_url": "pic.x.com/pR3CQDebWd",
+            "media_key": "3_1931655210029731840"
+          },
+          {
+            "start": 142,
+            "end": 165,
+            "url": "https://t.co/pR3CQDebWd",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931655217466265868/photo/1",
+            "display_url": "pic.x.com/pR3CQDebWd",
+            "media_key": "3_1931655210067521536"
+          },
+          {
+            "start": 142,
+            "end": 165,
+            "url": "https://t.co/pR3CQDebWd",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931655217466265868/photo/1",
+            "display_url": "pic.x.com/pR3CQDebWd",
+            "media_key": "3_1931655210033922048"
+          },
+          {
+            "start": 142,
+            "end": 165,
+            "url": "https://t.co/pR3CQDebWd",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931655217466265868/photo/1",
+            "display_url": "pic.x.com/pR3CQDebWd",
+            "media_key": "3_1931655210071715841"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 22,
+            "end": 31,
+            "probability": 0.5793,
+            "type": "Place",
+            "normalized_text": "マレーシアパビリオン"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931653861124517903,
+      "text": "たとえばベルギーは医療技術アピほぼほぼ全振りで、おかげでパビリオンを回った結果｢同意のもとに個人情報を収集してくる国｣以上の感想が出てこなかったみたいな……他方で売店のワッフルは美味しかったです あと謎の靴下と「失われた鳥」の缶バッジがアツいです https://t.co/3S76waBz0k",
+      "created_at": "2025-06-08T10:05:43+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 64,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 4527
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 124,
+            "end": 147,
+            "url": "https://t.co/3S76waBz0k",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931653861124517903/photo/1",
+            "display_url": "pic.x.com/3S76waBz0k",
+            "media_key": "3_1931653853684039680"
+          },
+          {
+            "start": 124,
+            "end": 147,
+            "url": "https://t.co/3S76waBz0k",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931653861124517903/photo/1",
+            "display_url": "pic.x.com/3S76waBz0k",
+            "media_key": "3_1931653853751164928"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 4,
+            "end": 7,
+            "probability": 0.9063,
+            "type": "Place",
+            "normalized_text": "ベルギー"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931652765757083937,
+      "text": "国によって魅せ方は様々で、日本との歴史的な関わりを重点的に説明してくる国・文化にフォーカスしてくる国・自国の技術にフォーカスしてくる国などなどがあります 技術にフォーカスしてくる国は国の文化的特色が見えづらいく内容が似通いがちなのがやや残念な面も……",
+      "created_at": "2025-06-08T10:01:22+00:00",
+      "metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 31,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3301
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 13,
+            "end": 14,
+            "probability": 0.7944,
+            "type": "Place",
+            "normalized_text": "日本"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931651317069660588,
+      "text": "超忙しいながらもエンタメは大切なので先日万博行きました！！！\n人多く激混みだしめっちゃ歩くし物価は5倍以上で容易に破産するしと大変でしたが普段見られない世界に触れられるのすごい良かったです おすすめはマレーシア・スペイン・フランス・アメリカ・サウジ・UAEなどです https://t.co/uQuE3rOGnE",
+      "created_at": "2025-06-08T09:55:36+00:00",
+      "metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 69,
+        "quote_count": 0,
+        "bookmark_count": 4,
+        "impression_count": 3558
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 133,
+            "end": 156,
+            "url": "https://t.co/uQuE3rOGnE",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931651317069660588/photo/1",
+            "display_url": "pic.x.com/uQuE3rOGnE",
+            "media_key": "3_1931651310723751936"
+          },
+          {
+            "start": 133,
+            "end": 156,
+            "url": "https://t.co/uQuE3rOGnE",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931651317069660588/photo/1",
+            "display_url": "pic.x.com/uQuE3rOGnE",
+            "media_key": "3_1931651310753046528"
+          },
+          {
+            "start": 133,
+            "end": 156,
+            "url": "https://t.co/uQuE3rOGnE",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931651317069660588/photo/1",
+            "display_url": "pic.x.com/uQuE3rOGnE",
+            "media_key": "3_1931651310790807552"
+          },
+          {
+            "start": 133,
+            "end": 156,
+            "url": "https://t.co/uQuE3rOGnE",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931651317069660588/photo/1",
+            "display_url": "pic.x.com/uQuE3rOGnE",
+            "media_key": "3_1931651310761451520"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 20,
+            "end": 21,
+            "probability": 0.5666,
+            "type": "Place",
+            "normalized_text": "万博"
+          },
+          {
+            "start": 100,
+            "end": 104,
+            "probability": 0.9912,
+            "type": "Place",
+            "normalized_text": "マレーシア"
+          },
+          {
+            "start": 106,
+            "end": 109,
+            "probability": 0.9842,
+            "type": "Place",
+            "normalized_text": "スペイン"
+          },
+          {
+            "start": 111,
+            "end": 114,
+            "probability": 0.9809,
+            "type": "Place",
+            "normalized_text": "フランス"
+          },
+          {
+            "start": 116,
+            "end": 119,
+            "probability": 0.9339,
+            "type": "Place",
+            "normalized_text": "アメリカ"
+          },
+          {
+            "start": 121,
+            "end": 127,
+            "probability": 0.1573,
+            "type": "Organization",
+            "normalized_text": "サウジ・UAE"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931636917885706611,
+      "text": "今夜は事務的なあれこれと思想固め 呪い",
+      "created_at": "2025-06-08T08:58:23+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 20,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2276
+      },
+      "entities": null
+    },
+    {
+      "id": 1931622088324092148,
+      "text": "RT @denfaminicogame: 「東方Project」公認のゲームブック風RPG『ほらふき山の魔理沙』新体験版がSteamにて配信開始。『東方ダンマクカグラ』など手がけたアンノウンXの新作\nhttps://t.co/S2Dbp2GhyL\n\nレミリア、フランドール、咲夜…",
+      "created_at": "2025-06-08T07:59:28+00:00",
+      "metrics": {
+        "retweet_count": 64,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "denfaminicogame",
+            "id": "2786677338"
+          }
+        ],
+        "urls": [
+          {
+            "start": 100,
+            "end": 123,
+            "url": "https://t.co/S2Dbp2GhyL",
+            "expanded_url": "https://news.denfaminicogamer.jp/news/250606k",
+            "display_url": "news.denfaminicogamer.jp/news/250606k",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1930867746621038592/iKn1e_OA?format=png&name=orig",
+                "width": 1024,
+                "height": 576
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1930867746621038592/iKn1e_OA?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "「東方Project」公認のゲームブック風RPG『ほらふき山の魔理沙』新体験版がSteamにて配信開始。レミリア、フランドール、咲夜、パチュリーといった紅魔館のメンバーたちが霊夢を手助けしてくれるように。9月19日に発売予定",
+            "description": "レミリア、フランドール、咲夜、パチュリーといった紅魔館のメンバーたちが霊夢を手助けしてくれるように。9月19日に発売",
+            "unwound_url": "https://news.denfaminicogamer.jp/news/250606k"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 22,
+            "end": 30,
+            "probability": 0.4011,
+            "type": "Other",
+            "normalized_text": "東方Project"
+          },
+          {
+            "start": 46,
+            "end": 54,
+            "probability": 0.3533,
+            "type": "Other",
+            "normalized_text": "ほらふき山の魔理沙"
+          },
+          {
+            "start": 61,
+            "end": 65,
+            "probability": 0.3673,
+            "type": "Product",
+            "normalized_text": "Steam"
+          },
+          {
+            "start": 74,
+            "end": 82,
+            "probability": 0.4752,
+            "type": "Other",
+            "normalized_text": "東方ダンマクカグラ"
+          },
+          {
+            "start": 130,
+            "end": 135,
+            "probability": 0.3425,
+            "type": "Person",
+            "normalized_text": "フランドール"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931613234173514016,
+      "text": "アリス",
+      "created_at": "2025-06-08T07:24:17+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2223
+      },
+      "entities": null
+    },
+    {
+      "id": 1931481627336802376,
+      "text": "我々にできることは望むことと信じることだけ",
+      "created_at": "2025-06-07T22:41:19+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2554
+      },
+      "entities": null
+    },
+    {
+      "id": 1931480673329758463,
+      "text": "アリスの曲って圧倒的に\"負\"のオーラがするんだよな……",
+      "created_at": "2025-06-07T22:37:32+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 46,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3192
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.3908,
+            "type": "Person",
+            "normalized_text": "アリス"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931469067417973072,
+      "text": "残業",
+      "created_at": "2025-06-07T21:51:25+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2441
+      },
+      "entities": null
+    },
+    {
+      "id": 1931339175904813530,
+      "text": "今夜はフルコーラス 歌詞 提出準備まで……",
+      "created_at": "2025-06-07T13:15:16+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 24,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2962
+      },
+      "entities": null
+    },
+    {
+      "id": 1931339119353024715,
+      "text": "ピスタチオのケーキといえばやはりオペラに挑戦してみたいな",
+      "created_at": "2025-06-07T13:15:03+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2825
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 0,
+            "end": 4,
+            "probability": 0.6587,
+            "type": "Person",
+            "normalized_text": "ピスタチオ"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931338943259394426,
+      "text": "重い作業を始める前には気合を入れる 今回はピスタチオのチーズケーキである！！ https://t.co/BSf8IzwIGK",
+      "created_at": "2025-06-07T13:14:21+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 76,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3189
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 39,
+            "end": 62,
+            "url": "https://t.co/BSf8IzwIGK",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931338943259394426/photo/1",
+            "display_url": "pic.x.com/BSf8IzwIGK",
+            "media_key": "3_1931338937362239488"
+          },
+          {
+            "start": 39,
+            "end": 62,
+            "url": "https://t.co/BSf8IzwIGK",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931338943259394426/photo/1",
+            "display_url": "pic.x.com/BSf8IzwIGK",
+            "media_key": "3_1931338937341239296"
+          },
+          {
+            "start": 39,
+            "end": 62,
+            "url": "https://t.co/BSf8IzwIGK",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931338943259394426/photo/1",
+            "display_url": "pic.x.com/BSf8IzwIGK",
+            "media_key": "3_1931338937316106240"
+          },
+          {
+            "start": 39,
+            "end": 62,
+            "url": "https://t.co/BSf8IzwIGK",
+            "expanded_url": "https://x.com/rdwithleaf/status/1931338943259394426/photo/1",
+            "display_url": "pic.x.com/BSf8IzwIGK",
+            "media_key": "3_1931338937370607616"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931287451382993036,
+      "text": "RT @eeeo_chan_: 今年も凋叶棕様の枠で出演させていただきます！皆様どうぞよろしくお願いいたします！全力で楽しみますわよ😎",
+      "created_at": "2025-06-07T09:49:44+00:00",
+      "metrics": {
+        "retweet_count": 24,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "eeeo_chan_",
+            "id": "1916298540797812736"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 19,
+            "end": 22,
+            "probability": 0.2755,
+            "type": "Other",
+            "normalized_text": "凋叶棕様"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931287439190196570,
+      "text": "RT @cosmopolitan093: 今年も凋叶棕さん枠で出演させていただきます！\nよろしくお願いします🥰🥰🥰",
+      "created_at": "2025-06-07T09:49:41+00:00",
+      "metrics": {
+        "retweet_count": 43,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 19,
+            "username": "cosmopolitan093",
+            "id": "739320549004836865"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 24,
+            "end": 28,
+            "probability": 0.4196,
+            "type": "Person",
+            "normalized_text": "凋叶棕さん"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931264303283536229,
+      "text": "せんでーん！！なんと凋叶棕はこの夏またも上海にてライブに出演させていただく予定です！！\n第十三回上海東方ONLYイベント－琢火蝶ーです！！！\n\n詳細はまた追ってお知らせしたいと思います、是非よろしくお願いします！！！\n期待在上海见到大家!",
+      "created_at": "2025-06-07T08:17:45+00:00",
+      "metrics": {
+        "retweet_count": 108,
+        "reply_count": 1,
+        "like_count": 367,
+        "quote_count": 5,
+        "bookmark_count": 11,
+        "impression_count": 12831
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 20,
+            "end": 21,
+            "probability": 0.5474,
+            "type": "Place",
+            "normalized_text": "上海"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931264291824644395,
+      "text": "RT @oxygenlra: 第十三回上海東方ONLYイベント－琢火蝶ーを2025年8月10日にかけて開催いたします。\n\n今回のライブの出演サークル様を公開いたします:https://t.co/itRwKMrl6S\n\n燃え尽きた蝶の残滓を掬って、生前葬へ行きましょう。\nこの時が…",
+      "created_at": "2025-06-07T08:17:42+00:00",
+      "metrics": {
+        "retweet_count": 116,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 13,
+            "username": "oxygenlra",
+            "id": "3897061452"
+          }
+        ],
+        "urls": [
+          {
+            "start": 84,
+            "end": 107,
+            "url": "https://t.co/itRwKMrl6S",
+            "expanded_url": "http://shthonly.org/th13/ja/",
+            "display_url": "shthonly.org/th13/ja/",
+            "status": 200,
+            "title": "第十三届上海THONLY",
+            "unwound_url": "https://shthonly.org/th13/ja/"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 15,
+            "end": 30,
+            "probability": 0.1587,
+            "type": "Other",
+            "normalized_text": "第十三回上海東方ONLYイベント"
+          },
+          {
+            "start": 32,
+            "end": 32,
+            "probability": 0.4803,
+            "type": "Person",
+            "normalized_text": "琢"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931259845157765432,
+      "text": "◎貴方のサークル「凋叶棕 Feuille-Morte」は、日曜日 東地区 “ア”ブロック－08ab(東６ホール) に配置されました。\n激遅ですがコミケスペース頂きました！いろんなものが渋滞していてめっちゃヤバヤバヤバなのですが作りたいものがあるのでベストを尽くすべく頑張りたいと思います！！！！",
+      "created_at": "2025-06-07T08:00:02+00:00",
+      "metrics": {
+        "retweet_count": 46,
+        "reply_count": 0,
+        "like_count": 237,
+        "quote_count": 2,
+        "bookmark_count": 6,
+        "impression_count": 8432
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 9,
+            "end": 25,
+            "probability": 0.7645,
+            "type": "Other",
+            "normalized_text": "凋叶棕 Feuille-Morte"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1931259453367812100,
+      "text": "アリス",
+      "created_at": "2025-06-07T07:58:29+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 24,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2207
+      },
+      "entities": null
+    },
+    {
+      "id": 1930849878638231923,
+      "text": "アリス",
+      "created_at": "2025-06-06T04:50:59+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 43,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2735
+      },
+      "entities": null
+    },
+    {
+      "id": 1930609657749643759,
+      "text": "つまりはプラスチックなのだ！",
+      "created_at": "2025-06-05T12:56:26+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 18,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2802
+      },
+      "entities": null
+    },
+    {
+      "id": 1930582337219428417,
+      "text": "突撃軍曹　ラムザ君の憂うつ　風の又三郎　づんづん　ローリングソバット　アジョラさん大回転……",
+      "created_at": "2025-06-05T11:07:52+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2672
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 5,
+            "end": 8,
+            "probability": 0.3044,
+            "type": "Person",
+            "normalized_text": "ラムザ君"
+          },
+          {
+            "start": 17,
+            "end": 23,
+            "probability": 0.582,
+            "type": "Person",
+            "normalized_text": "三郎　づんづん"
+          },
+          {
+            "start": 35,
+            "end": 40,
+            "probability": 0.4237,
+            "type": "Person",
+            "normalized_text": "アジョラさん"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1930582067575988518,
+      "text": "今の技術で曲が聞けたりゲームを遊べたりするのは嬉しくもあるがもうこれ以上リマスターはやめるのだ！と内なる存在が叫んでいるのもまた事実",
+      "created_at": "2025-06-05T11:06:48+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 33,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3382
+      },
+      "entities": null
+    },
+    {
+      "id": 1930557609674969249,
+      "text": "集中し始めると過去の嫌な記憶がフラッシュバックしてくるようになる 勿論作業の邪魔だけどそれが逆にスイッチが入りつつあることのサインにもなっている",
+      "created_at": "2025-06-05T09:29:36+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 30,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2893
+      },
+      "entities": null
+    },
+    {
+      "id": 1930546553225154635,
+      "text": "今夜は1コーラスチャレンジ いけるか……？？",
+      "created_at": "2025-06-05T08:45:40+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2277
+      },
+      "entities": null
+    },
+    {
+      "id": 1930519615756743002,
+      "text": "こうなったら紙袋にスイッチ2とだけ書いてあちこち持ち歩いて周囲を動揺させたい",
+      "created_at": "2025-06-05T06:58:38+00:00",
+      "metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 58,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3656
+      },
+      "entities": null
+    },
+    {
+      "id": 1930506183607234577,
+      "text": "なるほどこうすれば良かったのか……",
+      "created_at": "2025-06-05T06:05:15+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 12,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2224
+      },
+      "entities": null
+    },
+    {
+      "id": 1930505828362322179,
+      "text": "サビメロを夢のお告げで知った 行けるかも",
+      "created_at": "2025-06-05T06:03:51+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 23,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2446
+      },
+      "entities": null
+    },
+    {
+      "id": 1930505395455594908,
+      "text": "アリス",
+      "created_at": "2025-06-05T06:02:07+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2309
+      },
+      "entities": null
+    },
+    {
+      "id": 1930262510646579523,
+      "text": "今夜はサビメロと設計と歌詞の方向決定 あと全体の思想固めなど……",
+      "created_at": "2025-06-04T13:56:59+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 23,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2891
+      },
+      "entities": null
+    },
+    {
+      "id": 1930155124892332213,
+      "text": "夏場はあんまり眠れないんだよな……縺作ってたときも滅茶苦茶な睡眠周期してた",
+      "created_at": "2025-06-04T06:50:16+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3126
+      },
+      "entities": null
+    },
+    {
+      "id": 1930154935439757590,
+      "text": "睡眠スケジュールが乱れてきており夏の始まりを感じる",
+      "created_at": "2025-06-04T06:49:31+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2314
+      },
+      "entities": null
+    },
+    {
+      "id": 1929985543498281398,
+      "text": "サビメロ……",
+      "created_at": "2025-06-03T19:36:25+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2949
+      },
+      "entities": null
+    },
+    {
+      "id": 1929887743850762610,
+      "text": "てすさびから生まれるものもある……",
+      "created_at": "2025-06-03T13:07:48+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 15,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2585
+      },
+      "entities": null
+    },
+    {
+      "id": 1929886046122344869,
+      "text": "ピアノのコード弾きとメロだけのアプローチはそろそろ限界がある　もうちょっと別の視点をもって挑もう",
+      "created_at": "2025-06-03T13:01:03+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2572
+      },
+      "entities": null
+    },
+    {
+      "id": 1929885292149805492,
+      "text": "武器を増やした方がいい",
+      "created_at": "2025-06-03T12:58:03+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2572
+      },
+      "entities": null
+    },
+    {
+      "id": 1929851841036132546,
+      "text": "アリスといえばやはりこれ https://t.co/bBm5NCIJ4X",
+      "created_at": "2025-06-03T10:45:08+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 47,
+        "quote_count": 0,
+        "bookmark_count": 2,
+        "impression_count": 3652
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 13,
+            "end": 36,
+            "url": "https://t.co/bBm5NCIJ4X",
+            "expanded_url": "https://x.com/rdwithleaf/status/1929851841036132546/video/1",
+            "display_url": "pic.x.com/bBm5NCIJ4X",
+            "media_key": "7_1929851821935546368"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1929847570668658881,
+      "text": "アリスを高める一環 https://t.co/WmCfhMhUmC",
+      "created_at": "2025-06-03T10:28:10+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 66,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3677
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 10,
+            "end": 33,
+            "url": "https://t.co/WmCfhMhUmC",
+            "expanded_url": "https://x.com/rdwithleaf/status/1929847570668658881/photo/1",
+            "display_url": "pic.x.com/WmCfhMhUmC",
+            "media_key": "3_1929847565492932610"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1929833927013028240,
+      "text": "アリスについては何を言っても不正解率が高いから本当に難しい ハードルが高すぎる",
+      "created_at": "2025-06-03T09:33:57+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 48,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3890
+      },
+      "entities": null
+    },
+    {
+      "id": 1929832227783029252,
+      "text": "アリスのこと何もわからない",
+      "created_at": "2025-06-03T09:27:12+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 40,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 2689
+      },
+      "entities": null
+    },
+    {
+      "id": 1929803870655729679,
+      "text": "四次まで行ったら内定目前だから 勝利だから ワカル？",
+      "created_at": "2025-06-03T07:34:31+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 27,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2866
+      },
+      "entities": null
+    },
+    {
+      "id": 1929800963684278629,
+      "text": "アリス",
+      "created_at": "2025-06-03T07:22:58+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2342
+      },
+      "entities": null
+    },
+    {
+      "id": 1929671428737323032,
+      "text": "サビに思想性が足りない あと接着がうまくいってない",
+      "created_at": "2025-06-02T22:48:14+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 32,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3026
+      },
+      "entities": null
+    },
+    {
+      "id": 1929669855290249574,
+      "text": "掴みかけてる……気もする……",
+      "created_at": "2025-06-02T22:41:59+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 16,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2481
+      },
+      "entities": null
+    },
+    {
+      "id": 1929634935692055012,
+      "text": "メッセージ性と曲調とが合わない　死",
+      "created_at": "2025-06-02T20:23:14+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 22,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2736
+      },
+      "entities": null
+    },
+    {
+      "id": 1929633737782055361,
+      "text": "自分の中のつまんねーーこれ！！！をねじ伏せるまでの時間が長すぎる",
+      "created_at": "2025-06-02T20:18:28+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 17,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2715
+      },
+      "entities": null
+    },
+    {
+      "id": 1929627576068374607,
+      "text": "幻想とはつまるところ現実逃避の為のツールなのか？",
+      "created_at": "2025-06-02T19:53:59+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 44,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 3372
+      },
+      "entities": null
+    },
+    {
+      "id": 1929448349918232755,
+      "text": "アリス",
+      "created_at": "2025-06-02T08:01:48+00:00",
+      "metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 46,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2980
+      },
+      "entities": null
+    },
+    {
+      "id": 1929436314207744502,
+      "text": "今月はすでにヤバい予感がしている！！！",
+      "created_at": "2025-06-02T07:13:59+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 31,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3019
+      },
+      "entities": null
+    },
+    {
+      "id": 1929436156883546567,
+      "text": "@neko_moco2 ありがとうございます！！これからも頑張りますのでぜひ聞いてください！！",
+      "created_at": "2025-06-02T07:13:21+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 70
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 11,
+            "username": "neko_moco2",
+            "id": "1338629882817888259"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1929436079456735502,
+      "text": "@0_kotsubu ありがとうございます！！",
+      "created_at": "2025-06-02T07:13:03+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 51
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 10,
+            "username": "0_kotsubu",
+            "id": "1444697424610529285"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1929436062054789296,
+      "text": "@sktsubasa385 ありがとうございます！！",
+      "created_at": "2025-06-02T07:12:59+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 46
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 13,
+            "username": "sktsubasa385",
+            "id": "217998071"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1929436042848797143,
+      "text": "@Nirvna1111s2687 ありがとうございます！！！",
+      "created_at": "2025-06-02T07:12:54+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 42
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 16,
+            "username": "Nirvna1111s2687",
+            "id": "831834902194630661"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1929436021889888467,
+      "text": "@yatox810 ありがとうございます！！",
+      "created_at": "2025-06-02T07:12:49+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 32
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 9,
+            "username": "yatox810",
+            "id": "1597339934418927619"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1929435989878976956,
+      "text": "@Yayogetsu_Sub ありがとうございます！ぜひこれからもご愛聴ください！！",
+      "created_at": "2025-06-02T07:12:41+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 44
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "Yayogetsu_Sub",
+            "id": "981015949204635649"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1929435927543185745,
+      "text": "@suzusiro_suzuna ありがとうございます！！！",
+      "created_at": "2025-06-02T07:12:26+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 45
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 16,
+            "username": "suzusiro_suzuna",
+            "id": "190289809"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1929435883951767921,
+      "text": "@halfprize06 ありがとうございます！！これからも頑張ってまいります！！",
+      "created_at": "2025-06-02T07:12:16+00:00",
+      "metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 36
+      },
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "halfprize06",
+            "id": "997508369849217025"
+          }
+        ]
+      }
+    }
+  ]
+}
