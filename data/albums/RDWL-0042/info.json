@@ -9,6 +9,8 @@
           {
             "id": "RDWL-0042-01",
             "name": "NIMBUS",
+            "originalSong": "星の器　～ Casket of Star",
+            "arranger": "RD-Sounds",
             "albumId": "RDWL-0042",
             "albumName": "眩",
             "albumCoverUrl": "/assets/images/albums/RDWL-0042.png",
@@ -18,10 +20,12 @@
           {
             "id": "RDWL-0042-02",
             "name": "Something Shiny",
+            "originalSong": "恋色マジック",
+            "arranger": "RD-Sounds",
             "albumId": "RDWL-0042",
             "albumName": "眩",
             "albumCoverUrl": "/assets/images/albums/RDWL-0042.png",
             "coverUrl": "/assets/images/tracks/RDWL-0042/2.png"
-          }
+          } 
       ]
 } 
