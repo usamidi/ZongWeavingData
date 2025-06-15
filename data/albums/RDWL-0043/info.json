@@ -10,21 +10,27 @@
             "id": "RDWL-0043-01",
             "name": "うすれゆくものへ",
             "albumId": "RDWL-0043",
-            "albumName": "缘"
+            "albumName": "缘",
+            "albumCoverUrl": "/assets/images/albums/RDWL-0043.jpg",
+            "coverUrl": "/assets/images/tracks/RDWL-0043/1.jpg"
           },
-          
+
           {
             "id": "RDWL-0043-02",
             "name": "幻燈",
             "albumId": "RDWL-0043",
-            "albumName": "缘"
+            "albumName": "缘",
+            "albumCoverUrl": "/assets/images/albums/RDWL-0043.jpg",
+            "coverUrl": "/assets/images/tracks/RDWL-0043/2.jpg"
           },
 
           {
             "id": "RDWL-0043-03",
             "name": "自由への賛歌",
             "albumId": "RDWL-0043",
-            "albumName": "缘"
+            "albumName": "缘",
+            "albumCoverUrl": "/assets/images/albums/RDWL-0043.jpg",
+            "coverUrl": "/assets/images/tracks/RDWL-0043/3.jpg"
           }
       ]
 } 
