@@ -1,0 +1,30 @@
+{
+  "id": "RDWL-0043-02",
+  "name": "幻燈",
+  "originalSong": "此岸の塚\n花は幻想のままに\n魂の花　～ Another Dream...",
+  "arranger": "RD-Sounds",
+  "albumId": "RDWL-0043",
+  "albumName": "縁",
+  "albumCoverUrl": "/assets/images/albums/RDWL-0043.jpg",
+  "coverUrl": "/assets/images/tracks/RDWL-0043/2.jpg",
+  "lyrics": [
+    {
+      "original": "であい　ふれる",
+      "translation": "翻译1"
+    },
+    {
+      "original": "いかなるめぐりにも",
+      "translation": "翻译2"
+    },
+    {
+      "original": "おもい　きざす",
+      "translation": "翻译1"
+    },
+    {
+      "original": "かすかなる幻想",
+      "translation": "翻译2"
+    }
+  ],
+  "vocalist": "めらみぽっぷ",
+  "lyricist": "RD-Sounds"
+} 

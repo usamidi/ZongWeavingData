@@ -1,0 +1,30 @@
+{
+  "id": "RDWL-0042-02",
+  "name": "Something Shiny",
+  "originalSong": "恋色マジック",
+  "arranger": "RD-Sounds",
+  "albumId": "RDWL-0042",
+  "albumName": "眩",
+  "albumCoverUrl": "/assets/images/albums/RDWL-0042.png",
+  "coverUrl": "/assets/images/tracks/RDWL-0042/2.png",
+  "lyrics": [
+    {
+      "original": "それはいつしか唱え始めた魔法",
+      "translation": "翻译1"
+    },
+    {
+      "original": "彩られ開いた世界に根差す幻想",
+      "translation": "翻译2"
+    },
+    {
+      "original": "黄金色に滲むその輪郭",
+      "translation": "翻译1"
+    },
+    {
+      "original": "目も眩むような輝きだけ",
+      "translation": "翻译2"
+    }
+  ],
+  "vocalist": "いお",
+  "lyricist": "RD-Sounds"
+} 
