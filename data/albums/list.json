@@ -7,9 +7,15 @@
       "name": "缘",
       "coverUrl": "/assets/images/albums/RDWL-0043.jpg",
       "releaseDate": "2025-05-05",
-      "event": "第二十二回博丽神社例大祭",
-      "description": "这是专辑简介",
-      "tracks": []
+      "event": "第二十二回博丽神社例大祭"   
+    },
+
+    {
+      "id": "RDWL-0042",
+      "name": "眩",
+      "coverUrl": "/assets/images/albums/RDWL-0042.png",
+      "releaseDate": "2024-12-30",
+      "event": "Comic Market 105" 
     }
   ]
 } 

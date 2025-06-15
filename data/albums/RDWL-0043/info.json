@@ -5,5 +5,26 @@
   "releaseDate": "2025-05-05",
   "event": "第二十二回博丽神社例大祭",
   "description": "凋叶棕が送る、東方マルチジャンルアレンジアルバムです。\n「縁(えん)」をテーマにした、終わりと始まりの幻燈に添えた一枚。\n全８曲。うまれたおもいは、どこまで……？",
-  "tracks": []
+  "tracks": [
+          {
+            "id": "RDWL-0043-01",
+            "name": "うすれゆくものへ",
+            "albumId": "RDWL-0043",
+            "albumName": "缘"
+          },
+          
+          {
+            "id": "RDWL-0043-02",
+            "name": "幻燈",
+            "albumId": "RDWL-0043",
+            "albumName": "缘"
+          },
+
+          {
+            "id": "RDWL-0043-03",
+            "name": "自由への賛歌",
+            "albumId": "RDWL-0043",
+            "albumName": "缘"
+          }
+      ]
 } 

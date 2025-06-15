@@ -5,5 +5,19 @@
   "releaseDate": "2024-12-30",
   "event": "Comic Market 105",
   "description": "凋叶棕が送る、東方マルチジャンルアレンジアルバム！\n「憧れ」をテーマにした、光輝くあの少女に心奪われたすべての少女と少年達への一枚。\nその思いを、いくつかの側面から観測する。\n全６曲。――止められないのは、もう、憧れだけなのか？",
-  "tracks": []
+  "tracks": [
+          {
+            "id": "RDWL-0042-01",
+            "name": "NIMBUS",
+            "albumId": "RDWL-0042",
+            "albumName": "眩"
+          },
+          
+          {
+            "id": "RDWL-0042-02",
+            "name": "Something Shiny",
+            "albumId": "RDWL-0042",
+            "albumName": "眩"
+          }
+      ]
 } 
