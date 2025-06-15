@@ -1,0 +1,17 @@
+{
+  "id": "RDWL-0043",
+  "name": "缘",
+  "coverUrl": "/assets/images/albums/RDWL-0043.jpg",
+  "releaseDate": "2025-05-05",
+  "event": "第二十二回博丽神社例大祭",
+  "description": "这是专辑简介",
+  "tracks": [
+    {
+      "id": "RDWL-0043-01",
+      "name": "曲目1",
+      "originalSong": "原曲1",
+      "composer": "作曲1",
+      "coverUrl": "/assets/images/tracks/RDWL-0043-01.jpg"
+    }
+  ]
+} 
